@@ -38,15 +38,15 @@ Identified customer segments:
 
 Key segment characteristics:
 
-![](asset/segments.jpg)
+![](segments.jpg)
 
 Looking at the population per segment, clusters "VIP/Prime" and "one-off" are very small and represent some kind of exceptions / outliers. They unlikely constitute potential market segments within the observed population.
 
 Population per segment:
 
-![](asset/population.png)
+![](population.png)
 
 The last picture shows the dataset projection on two principal component axis after dimensionality reduction towards 2D feature space (from 17 features to 2 features). These two dimensions retain 48% of the total variance of the dataset. The axes represents the direction of maximum variance in the data (eigen vectors).
 
 
-![](asset/pca.png)
+![](pca.png)
